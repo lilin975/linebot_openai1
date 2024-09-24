@@ -1,4 +1,4 @@
 line-bot-sdk
 flask
-azure openai < 1.0.0
+openai < 1.0.0
 gunicorn
